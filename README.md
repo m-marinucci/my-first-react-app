@@ -39,3 +39,4 @@ https://tailwindcss.com/docs/guides/vite
 @tailwind base;
 @tailwind components;
 @tailwind utilities;# my-first-react-app
+# my-first-react-app
